@@ -23,12 +23,13 @@ Simplify 3D model organization with EZ STL Cataloger! Extract and organize your 
  4. (Optional) If installation.py does not run correctly, manually install dependencies:
      ```bash
     pip install -r requirements.txt
-
+     
 Usage
 
     python main.py
 
-
+make sure all the other script are in the same document a .exe or individual script is on the way
+  
   Using the GUI
   1. Input Folder Selection: Browse and select the folder containing STL/OBJ files or archives.
   2. Script Configuration:
